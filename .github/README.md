@@ -6,16 +6,16 @@ Este es un proyecto API WEB de ASP.NET Core. Basada en los videos de documentaci
 ## Capturas de pantalla
 
 🔵 Get
-![WEB API Asp .net Core](get.jpg)
+![WEB API Asp .net Core](get.JPG)
 
 🔵 Get Id
-![WEB API Asp .net Core](id.jpg)
+![WEB API Asp .net Core](id.JPG)
 
 🔵 Post
-![WEB API Asp .net Core](post.jpg)
+![WEB API Asp .net Core](post.JPG)
 
 🔵 Validation
-![WEB API Asp .net Core](validation.jpg)
+![WEB API Asp .net Core](validation.JPG)
 
 🔵 Delete
-![WEB API Asp .net Core](delete.jpg)
+![WEB API Asp .net Core](delete.JPG)
