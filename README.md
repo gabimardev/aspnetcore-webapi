@@ -1,21 +1,21 @@
-Este es un proyecto **Web API**, creado gracias a [`ASP.NET Core`](https://dotnet.microsoft.com/es-es/learn/back-end-web-dev)
+Este es un proyecto de **Web API**, creado gracias a [`ASP.NET Core`](https://dotnet.microsoft.com/es-es/learn/back-end-web-dev)
 
 # ?? Breve descripci車n
-Este proyecto es la creaci車n de una Web Api de ASP.NET Core. Basada en los videos de documentaci車n de ASP.NET Core del canal de Youtube [`@dotnet`](https://www.youtube.com/watch?v=sHDox4Fx6G0&list=PLdo4fOcmZ0oWunQnm3WnZxJrseIw2zSAk)
+Este es un proyecto API WEB de ASP.NET Core. Basada en los videos de documentaci車n de ASP.NET Core del canal de Youtube [`@dotnet`](https://www.youtube.com/watch?v=sHDox4Fx6G0&list=PLdo4fOcmZ0oWunQnm3WnZxJrseIw2zSAk)
 
 ## Capturas de pantalla
 
 ?? Get
-![WEB API Asp .net Core](./docs/get.jpg)
+![WEB API Asp .net Core](docs/get.jpg)
 
 ?? Get Id
-![WEB API Asp .net Core](./docs/id.jpg)
+![WEB API Asp .net Core](docs/id.jpg)
 
 ?? Post
-![WEB API Asp .net Core](./docs/post.jpg)
+![WEB API Asp .net Core](docs/post.jpg)
 
 ?? Validation
-![WEB API Asp .net Core](./docs/validation.jpg)
+![WEB API Asp .net Core](docs/validation.jpg)
 
 ?? Delete
-![WEB API Asp .net Core](./docs/delete.jpg)
+![WEB API Asp .net Core](docs/delete.jpg)
